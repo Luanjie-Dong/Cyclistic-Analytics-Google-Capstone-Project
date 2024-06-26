@@ -126,15 +126,3 @@ GROUP BY
 
     
     
-SELECT 
-    end_station_name,
-    member_casual AS member_type,
-    count(*) as num_trips
-FROM 
-    trip_data_combined
-where end_station_name != ""
-GROUP BY 
-    end_station_name , member_type;
-    
-    
-select distinct end_lat from trip_data_combined;
