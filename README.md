@@ -21,6 +21,7 @@ Gain insights into how annual members and casual riders use Cyclistic bikes diff
   - **Bar Charts:** Compared trip durations between rider types over the past year.
   - **Maps:** Displayed ride density at various start and end stations.
   - **Line Graphs:** Illustrated trends in ride counts over time for both casual riders and annual members.
+  - **Tableau Link** https://public.tableau.com/views/GoogleCapstoneAnalysis/RiderHistoryDashboard?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
 
 ### Business Insight and Strategy Development
 - **Insights Extraction:**
