@@ -6,18 +6,18 @@ Gain insights into how annual members and casual riders use Cyclistic bikes diff
 ## Skills and Analysis Summary
 ### Technical and Analytical Skills Demonstrated
 - SQL for data manipulation and aggregation.
-- Tableau for creating interactive and informative visualizations.
+- Tableau for creating interactive and informative visualisations.
 - Analytical thinking to derive meaningful insights from data.
 
 ### Data Analysis and SQL Proficiency
 - **Data Import and Manipulation:**
   - Imported and processed 12 months of historical Cyclistic trip data (May 2023 - May 2024) using MySQL.
-  - Derived average ride durations and analyzed ride counts per day/month for both casual riders and annual members.
+  - Derived average ride durations and analysed ride counts per day/month for both casual riders and annual members.
   - Cleaned and grouped geographical data to determine ride distribution by location.
 
-### Data Visualization Expertise
-- **Visualization Tools:**
-  - Utilized Tableau to create compelling and professional visualizations to support data-driven insights and recommendations.
+### Data Visualisation Expertise
+- **Visualisation Tools:**
+  - Utilised Tableau to create compelling and professional visualisations to support data-driven insights and recommendations.
   - **Bar Charts:** Compared trip durations between rider types over the past year.
   - **Maps:** Displayed ride density at various start and end stations.
   - **Line Graphs:** Illustrated trends in ride counts over time for both casual riders and annual members.
