@@ -1,4 +1,4 @@
-# Google-Data-Analytics-Capstone-Project ( Cyclistic Bike-Share Analysis)
+# Google Data Analytics Capstone Project ( Cyclistic Bike-Share Analysis)
 
 ## Business Task
 Gain insights into how annual members and casual riders use Cyclistic bikes differently to inform a new marketing strategy aimed at converting casual riders into annual members.
